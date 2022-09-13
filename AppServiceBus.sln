@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.32804.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppServiceBus", "AppServiceBus\AppServiceBus.csproj", "{60311664-DB00-446A-B54A-724F5BF8ED7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppServiceBusConsumer", "AppServiceBusConsumer\AppServiceBusConsumer.csproj", "{3063C4ED-401D-4DBD-8A56-C50E28AC8B3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60311664-DB00-446A-B54A-724F5BF8ED7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60311664-DB00-446A-B54A-724F5BF8ED7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60311664-DB00-446A-B54A-724F5BF8ED7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60311664-DB00-446A-B54A-724F5BF8ED7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3063C4ED-401D-4DBD-8A56-C50E28AC8B3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3063C4ED-401D-4DBD-8A56-C50E28AC8B3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3063C4ED-401D-4DBD-8A56-C50E28AC8B3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3063C4ED-401D-4DBD-8A56-C50E28AC8B3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE9FC9D0-F717-47F5-A82F-1B612BC1C756}
+	EndGlobalSection
+EndGlobal
